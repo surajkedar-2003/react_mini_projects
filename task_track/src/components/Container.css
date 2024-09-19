@@ -1,0 +1,5 @@
+
+.inputbox{
+    @apply p-3 w-96 ml-10 
+    rounded-md border-0 outline-0;
+}
